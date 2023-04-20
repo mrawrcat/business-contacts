@@ -1,3 +1,4 @@
+version: '3'
 # services lists the multiple different apps we want to run via docker
 services:
   # name for the service
